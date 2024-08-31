@@ -7,3 +7,5 @@ def dividir(x, y):
         return "Error: División por cero"
     return x / y
 
+def resta(a,b):
+    return a-b
